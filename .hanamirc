@@ -1,0 +1,4 @@
+project=warbler
+architecture=container
+test=rspec
+template=haml
